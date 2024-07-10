@@ -68,6 +68,6 @@ The author is Christian
 
 ---
 
-Feel free to explore the notebooks and visualizations for a comprehensive understanding of the data and model performance.
+Feel free to explore the notebooks and visualizations for a comprehensive understanding of the data and model performances.
 
 Happy exploring! 🚀
